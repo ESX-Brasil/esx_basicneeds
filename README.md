@@ -1,24 +1,24 @@
 # esx_basicneeds
-This script implements hunger and thirst status, they can be increased when eating bread or drinking water.
+Este script implementa o status de fome e sede, eles podem ser aumentados quando comer pão ou beber água.
 
-## Requirements
-- [esx_status](https://github.com/ESX-Org/esx_status)
+## Requisitos
+- [esx_status](https://github.com/ESX-Brasil/esx_status)
 
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_basicneeds
+fvm install --save --folder=esx ESX-Brasil/esx_basicneeds
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_basicneeds [esx]/esx_basicneeds
+git clone https://github.com/ESX-Brasil/esx_basicneeds [esx]/esx_basicneeds
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_basicneeds/archive/master.zip
+- Download https://github.com/ESX-Brasil/esx_basicneeds/archive/master.zip
 - Put it in the `[esx]` directory
 
 
